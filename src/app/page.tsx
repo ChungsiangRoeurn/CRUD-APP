@@ -9,9 +9,10 @@ const page = () => {
           <h1 className="text-5xl text-amber-900 font-bold">
             CRUD <span className="text-amber-500 font-bold underline">APP</span>
           </h1>
-          <p className="font-semibold text-yellow-900 text-2xl">
-            This is a simple CRUD application using Next.TS, Tailwind CSS, and
-            Node.TS
+          <p className="font-semibold text-center text-yellow-900 text-xl w-1/2">
+            In this project here, I am using the Nextjs as a frontends, Tailwind
+            CSS as a CSS framework and Nodejs as a backend. And also included
+            the Typescript and mySQL, as well.
           </p>
         </div>
         <div>
